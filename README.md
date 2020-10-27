@@ -1,3 +1,5 @@
+![gif-trybe](https://user-images.githubusercontent.com/70240441/97354355-9f69a400-186b-11eb-93be-4ad575a58a72.gif)
+
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Robson Batista Widnef](https://www.linkedin.com/in/frontend-robsonwidnef/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
