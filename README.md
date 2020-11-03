@@ -1,3 +1,10 @@
+<h1> Seja Bem vindo </h1>
+
+<img width=300 src="https://user-images.githubusercontent.com/70240441/97352664-531d6480-1869-11eb-8a06-19aff0568e08.jpg">
+
+<p>
+  Esse repositório é para mandar os exercicios da trybe
+</p>
 ![gif-trybe](https://user-images.githubusercontent.com/70240441/97354355-9f69a400-186b-11eb-93be-4ad575a58a72.gif)
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Robson Batista Widnef](https://www.linkedin.com/in/frontend-robsonwidnef/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
