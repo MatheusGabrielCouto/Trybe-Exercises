@@ -1,0 +1,32 @@
+{
+  "pokemons": [
+    {
+      "name": "Charmander",
+      "type": "Fire",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/7/73/004Charmander.png/250px-004Charmander.png",
+      "weight": "8,5",
+      "nextEvolution": "Charmeleon"
+    },
+    {
+      "name": "Squirtle",
+      "type": "Water",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/3/39/007Squirtle.png/250px-007Squirtle.png",
+      "weight": "9.0",
+      "nextEvolution": "Wartortle"
+    },
+    {
+      "name": "Pidgey",
+      "type": "Normal/Flying",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/5/55/016Pidgey.png/250px-016Pidgey.png",
+      "weight": "1.8",
+      "nextEvolution": "Pidgeotto"
+    },
+    {
+      "name": "Bulbasaur",
+      "type": "Grass/Poison",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/2/21/001Bulbasaur.png/250px-001Bulbasaur.png",
+      "weight": "6.9",
+      "nextEvolution": "Ivysaur"
+    }
+  ]
+}
